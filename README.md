@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a student of BelSTU and just a good guy 😇
+## I'm a student of BSTU and just a good guy 😇
 - 💪 I like to write code
 - 😋 I love play the guitar
 - 💾 I like learning something new
