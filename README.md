@@ -2,6 +2,7 @@
 
 ### Technical tasks and Pet Projects:
 - Java
+  - [Анализатор погоды( среднесуточная, текущая погода)][weather-api] 
   - [REST-сервис просмотра котировок криптовалют SPRING/COIN LORE API][tz-1]
   - [Сайт для чтения в формате изображений Java EE/JSP][mangaproj]
 
@@ -10,7 +11,7 @@
 [<img align="left" alt="TG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
 
-
+[weather-api]: https://github.com/DanikMotolyha/weatherapp
 [linkedin]: https://www.linkedin.com/in/daniil-motolyha-9528a31b0/
 [tg]: https://t.me/Dun1_k
 [tz-1]: https://github.com/DanikMotolyha/currencywatcher
